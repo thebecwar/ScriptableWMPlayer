@@ -30,8 +30,11 @@ Control Command Line Options
 Examples:
 
 - Start the player from a batch file, playing `playlist.m3u`, and close when complete
-  `start scriptablewmpplayer.exe -hideconsole -autoclose -playlist playlist.m3u`
+
+    ```start scriptablewmpplayer.exe -hideconsole -autoclose -playlist playlist.m3u```
+
 - Set the player volume to 30%
-  `scriptablewmpplayer.exe -volume 30`
+
+    ```scriptablewmpplayer.exe -volume 30```
 
 
